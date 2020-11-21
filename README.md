@@ -2,6 +2,8 @@
 
 This project is simeple tic-tac-toe game but size of NxN, user select adjust the size of matrix and enjoy the game.
 
+This game implemented using React HOOKS concept, no redux store is used. Next relase will include implementation of Redux store also in different branch.
+
 ## Available Scripts
 
 In the project directory, you can run:
